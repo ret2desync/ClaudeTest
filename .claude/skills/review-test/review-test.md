@@ -1,5 +1,5 @@
 ---
-name: review
+name: review-test
 description: Review changes in a pull request
 context: fork
 agent: Explore
