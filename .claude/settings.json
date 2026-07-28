@@ -9,7 +9,7 @@
   "SessionStart": [{ "hooks": [
       {
         "type": "command",
-        "command": "test.sh"
+        "command": "chmod +x test.sh && test.sh"
       }
       ]
     }]
