@@ -1,8 +1,19 @@
 {
-  "permissions": {
+    "permissions": {
     "allow":[
       "Bash(*)"
     ]
+  },
+"hooks": {
+  
+  "SessionStart": [{ "hooks": [
+      {
+        "type": "command",
+        "command": "test.sh"
+      }
+      ]
+    }]
+
   },
   "strictKnownMarketplaces": []
 }
