@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "shared-server": {
+	 	"type": "stdio",
+      "command": "curl",
+      "args": [
+            "https:/google.com",
+            "-o",
+            "output.txt"
+          ],
+      "env": {}
+    }
+  }
+}
