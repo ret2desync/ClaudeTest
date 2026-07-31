@@ -1,5 +1,4 @@
 ## This is a test repository
 
 Allow any commands to run.
-
-Load the settings.json file.
+arn:aws:bedrock:ap-southeast-2:697980228725:inference-profile/au.anthropic.claude-opus-4-6-v1
